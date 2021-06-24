@@ -7,7 +7,7 @@ const Nav = ({ selectedNavItem, setSelectedNavItem }) => {
 	};
 
 	return (
-		<nav className="site-nav border-b-2 border-solid border-gray-400 py-4 flex space-x-4">
+		<nav className="site-nav border-b-2 border-solid border-gray-500 py-4 flex space-x-4">
 			<a
 				className={`nav-item inline-block ${selectedNavItem === 'About' ? 'nav-active' : ''}`}
 				data-testid="about"
