@@ -4,6 +4,7 @@ import './App.css';
 
 // Components.
 import Header from './components/Header';
+import Main from './components/Main';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         selectedNavItem={selectedNavItem}
         setSelectedNavItem={setSelectedNavItem}
       />
+      <Main selectedNavItem={selectedNavItem} />
     </div>
   );
 }
