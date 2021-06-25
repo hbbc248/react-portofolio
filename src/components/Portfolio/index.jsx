@@ -41,6 +41,13 @@ const Portfolio = () => {
       'link': 'https://hbbc248.github.io/weather-dashboard/',
       'github': 'https://github.com/hbbc248/weather-dashboard',
     },
+    {
+      'name': 'Budget Tracker',
+      'desc': 'MongoDB / Offline capabilities',
+      'image': 'budget-tracker.png',
+      'link': 'https://github.com/hbbc248/budget-tracker',
+      'github': 'https://budget-tracker-hbbc248.herokuapp.com/',
+    },
   ]);
 
   return (
