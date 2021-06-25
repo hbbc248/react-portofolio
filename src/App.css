@@ -10,8 +10,7 @@ body {
   cursor: pointer;
 }
 
-.nav-active,
-.site-main a:not(.button__link) {
+.nav-active {
   border-bottom: 1px dotted rgba(52, 211, 153);
   color: rgba(52, 211, 153);
 }
@@ -19,4 +18,8 @@ body {
 .site-main a:hover,
 .site-main a:focus {
   border-bottom: 1px solid #25629C;
+}
+
+.footer-item:hover {
+  color: rgba(52, 211, 153);
 }
