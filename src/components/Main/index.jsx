@@ -3,7 +3,7 @@ import React from 'react';
 // Components.
 import About from '../About';
 import Portfolio from '../Portfolio';
-
+import Resume from '../Resume';
 import ContactForm from '../Contact';
 
 
@@ -17,7 +17,9 @@ const Main = ({ selectedNavItem }) => (
     {selectedNavItem === 'Portfolio' && (
       <Portfolio />
     )}
-
+    {selectedNavItem === 'Resume' && (
+      <Resume />
+    )}
     {selectedNavItem === 'Contact' && (
       <ContactForm />
     )}
