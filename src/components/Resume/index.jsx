@@ -17,13 +17,6 @@ const Resume = () => (
         text="Download my CV (PDF)"
         link={resumePDF}
       />
-      <Button
-        classNames="button__link"
-        isLink={true}
-        target={true}
-        text="LinkedIn Profile"
-        link="https://www.linkedin.com/in/ibrahim-zerlin/"
-      />
     </div>
   </section>
 );

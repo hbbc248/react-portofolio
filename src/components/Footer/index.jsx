@@ -9,6 +9,7 @@ const Footer = () => (
         <div className="text-black flex flex-col md:items-center f-f-l pt-3">
           <div className="md:flex items-center mt-2 md:mt-2 mb-2 text-base text-color f-f-l">
             <a className="footer-item md:mr-6 pb-4 md:py-0 cursor-pointer" href="https://github.com/hbbc248/" target="blank">GitHub Page</a>
+            <a className="footer-item md:mr-6 pb-4 md:py-0 cursor-pointer" href="https://www.linkedin.com/in/ibrahim-zerlin/" target="blank">LinkedIn Profile</a>
             <a className="footer-item cursor-pointer" href="mailto: ibrahimzerlin@hotmail.com">Email Contact</a>
           </div>
           <div className="text-sm text-color mb-10 f-f-l">

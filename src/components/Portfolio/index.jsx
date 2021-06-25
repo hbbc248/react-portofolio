@@ -45,8 +45,8 @@ const Portfolio = () => {
       'name': 'Budget Tracker',
       'desc': 'MongoDB / Offline capabilities',
       'image': 'budget-tracker.png',
-      'link': 'https://github.com/hbbc248/budget-tracker',
-      'github': 'https://budget-tracker-hbbc248.herokuapp.com/',
+      'link': 'https://budget-tracker-hbbc248.herokuapp.com/',
+      'github': 'https://github.com/hbbc248/budget-tracker',
     },
   ]);
 
