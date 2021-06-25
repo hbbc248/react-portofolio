@@ -34,6 +34,13 @@ const Portfolio = () => {
       'link': 'https://blog-tech-new.herokuapp.com/',
       'github': 'https://github.com/hbbc248/tech-blog',
     },
+    {
+      'name': 'Weather Dashboard',
+      'desc': 'HTML / CSS / Third-Party APIs / Web APIs',
+      'image': 'weather-dashboard.png',
+      'link': 'https://hbbc248.github.io/weather-dashboard/',
+      'github': 'https://github.com/hbbc248/weather-dashboard',
+    },
   ]);
 
   return (
