@@ -4,6 +4,8 @@ import React from 'react';
 import About from '../About';
 import Portfolio from '../Portfolio';
 
+import ContactForm from '../Contact';
+
 
 
 
@@ -15,8 +17,12 @@ const Main = ({ selectedNavItem }) => (
     {selectedNavItem === 'Portfolio' && (
       <Portfolio />
     )}
-    
-    
+
+    {selectedNavItem === 'Contact' && (
+      <ContactForm />
+    )}
+
+
   </div>
 );
 
