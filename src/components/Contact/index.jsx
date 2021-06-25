@@ -31,9 +31,6 @@ const ContactForm = () => {
     if (!errorMessages[event.target.name]) {
       setFormState({ ...formState, [event.target.name]: event.target.value });
     }
-    console.log(errorMessages[event.target.name]);
-    console.log(formState);
-    
   };
 
   const handleSubmit = (event) => {
