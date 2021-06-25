@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-portofolio/static/css/main.8cc1612a.chunk.css",
+    "main.js": "/react-portofolio/static/js/main.69df4a58.chunk.js",
+    "main.js.map": "/react-portofolio/static/js/main.69df4a58.chunk.js.map",
+    "runtime-main.js": "/react-portofolio/static/js/runtime-main.b532ee00.js",
+    "runtime-main.js.map": "/react-portofolio/static/js/runtime-main.b532ee00.js.map",
+    "static/js/2.9f22cd9c.chunk.js": "/react-portofolio/static/js/2.9f22cd9c.chunk.js",
+    "static/js/2.9f22cd9c.chunk.js.map": "/react-portofolio/static/js/2.9f22cd9c.chunk.js.map",
+    "static/js/3.c7495fa0.chunk.js": "/react-portofolio/static/js/3.c7495fa0.chunk.js",
+    "static/js/3.c7495fa0.chunk.js.map": "/react-portofolio/static/js/3.c7495fa0.chunk.js.map",
+    "index.html": "/react-portofolio/index.html",
+    "static/css/main.8cc1612a.chunk.css.map": "/react-portofolio/static/css/main.8cc1612a.chunk.css.map",
+    "static/js/2.9f22cd9c.chunk.js.LICENSE.txt": "/react-portofolio/static/js/2.9f22cd9c.chunk.js.LICENSE.txt",
+    "static/media/National-park-finder.png": "/react-portofolio/static/media/National-park-finder.95d9125c.png",
+    "static/media/budget-tracker.png": "/react-portofolio/static/media/budget-tracker.385e7765.png",
+    "static/media/call-me-maybe.png": "/react-portofolio/static/media/call-me-maybe.1a1a219b.png",
+    "static/media/ibrahim-zerlin.2a5638bc.pdf": "/react-portofolio/static/media/ibrahim-zerlin.2a5638bc.pdf",
+    "static/media/ibrahim.jpg": "/react-portofolio/static/media/ibrahim.bdcf9774.jpg",
+    "static/media/my-portfolio-logo.png": "/react-portofolio/static/media/my-portfolio-logo.24111b95.png",
+    "static/media/portfolio-screenshot.png": "/react-portofolio/static/media/portfolio-screenshot.a1415777.png",
+    "static/media/run-buddy.jpg": "/react-portofolio/static/media/run-buddy.10b48c00.jpg",
+    "static/media/the-tech-blog.png": "/react-portofolio/static/media/the-tech-blog.f621e060.png",
+    "static/media/weather-dashboard.png": "/react-portofolio/static/media/weather-dashboard.5c2706cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b532ee00.js",
+    "static/js/2.9f22cd9c.chunk.js",
+    "static/css/main.8cc1612a.chunk.css",
+    "static/js/main.69df4a58.chunk.js"
+  ]
+}
