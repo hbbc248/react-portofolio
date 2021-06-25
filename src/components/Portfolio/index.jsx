@@ -20,6 +20,20 @@ const Portfolio = () => {
       'link': 'https://call-me-maybe-gp2.herokuapp.com/',
       'github': 'https://github.com/hbbc248/project_2',
     },
+    {
+      'name': 'Run Buddy',
+      'desc': 'HTML / CSS',
+      'image': 'run-buddy.jpg',
+      'link': 'https://hbbc248.github.io/run-buddy/',
+      'github': 'https://github.com/hbbc248/run-buddy',
+    },
+    {
+      'name': 'The Tech Blog',
+      'desc': 'NODE / MySQL / Express / MVC ',
+      'image': 'the-tech-blog.png',
+      'link': 'https://blog-tech-new.herokuapp.com/',
+      'github': 'https://github.com/hbbc248/tech-blog',
+    },
   ]);
 
   return (
