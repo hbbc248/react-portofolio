@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect} from 'react';
 import './App.css';
 
 
@@ -9,6 +9,11 @@ import Main from './components/Main';
 
 function App() {
   const [selectedNavItem, setSelectedNavItem] = useState('About');
+
+  useEffect(() => {
+    // Update the document title using the browser API
+    document.title = `My Portfolio - ${selectedNavItem}`;
+  });
 
   return (
     <div className="App container mx-auto  max-w-5xl flex flex-col min-h-screen">
