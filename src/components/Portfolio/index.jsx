@@ -7,6 +7,13 @@ const Portfolio = () => {
   
   const [projects] = useState([
     {
+      'name': 'Flower Shop',
+      'desc': 'MERN Fullstack / Nodemailer',
+      'image': 'flower-shop.png',
+      'link': 'https://flower-shop-project-3.herokuapp.com/',
+      'github': 'https://github.com/hbbc248/the-flower-store',
+    },
+    {
       'name': 'National Park Finder',
       'desc': 'HTML / CSS / JavaScript / APIs',
       'image': 'National-park-finder.png',
